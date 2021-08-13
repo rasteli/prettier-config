@@ -1,6 +1,7 @@
 {
   "name": "@rasteli/prettier-config",
-  "version": "1.0.0",
-  "main": "index.json",
-  "author": "rasteli"
+  "version": "1.0.1",
+  "main": ".prettierrc.json",
+  "author": "rasteli",
+  "prettier": "@rasteli/prettier-config"
 }
