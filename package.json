@@ -1,0 +1,6 @@
+{
+  "name": "@rasteli/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "author": "rasteli"
+}
